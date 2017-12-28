@@ -2,8 +2,12 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle font-storage",
-        "command": "font-storage:toggle"
+        "label": "Import font from WebFont",
+        "command": "font-storage:import"
+      },
+      {
+        "label": "Download font from WebFont",
+        "command": "font-storage:download"
       }
     ]
   },
@@ -12,11 +16,15 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "font-storage",
+          "label": "WebFont",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "font-storage:toggle"
+              "label": "Import Font",
+              "command": "font-storage:import"
+            },
+            {
+              "label": "Download Font",
+              "command": "font-storage:download"
             }
           ]
         }

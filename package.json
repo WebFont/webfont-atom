@@ -1,8 +1,8 @@
 {
   "name": "font-storage",
   "main": "./lib/font-storage",
-  "version": "0.0.0",
-  "description": "A short description of your package",
+  "version": "1.0.0",
+  "description": "Use fonts from FontStorage website",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": "font-storage:toggle"
@@ -14,6 +14,7 @@
   },
   "dependencies": {
     "atom-select-list": "^0.7.0",
+    "opn": "^5.1.0",
     "request": "^2.83.0"
   }
 }

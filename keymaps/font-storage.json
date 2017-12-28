@@ -1,5 +1,6 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "font-storage:toggle"
+    "ctrl-alt-o": "font-storage:import",
+    "ctrl-alt-d": "font-storage:download"
   }
 }
