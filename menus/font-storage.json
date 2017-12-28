@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle font-storage",
+        "command": "font-storage:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "font-storage",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "font-storage:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
