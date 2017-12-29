@@ -5,7 +5,7 @@
   "description": "Use fonts from FontStorage website",
   "keywords": [],
   "activationCommands": {
-    "atom-workspace": "font-storage:toggle"
+    "atom-workspace": ["font-storage:import", "font-storage:download"]
   },
   "repository": "https://github.com/atom/font-storage",
   "license": "MIT",
