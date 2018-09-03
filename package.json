@@ -1,11 +1,11 @@
 {
-  "name": "font-storage",
+  "name": "webfont",
   "main": "./lib/font-storage",
   "version": "1.0.0",
   "description": "Use fonts from FontStorage website",
   "keywords": [],
   "activationCommands": {
-    "atom-workspace": ["font-storage:import", "font-storage:download"]
+    "atom-workspace": ["webfont:import", "webfont:download"]
   },
   "repository": "https://github.com/atom/font-storage",
   "license": "MIT",

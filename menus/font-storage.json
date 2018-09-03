@@ -3,11 +3,11 @@
     "atom-text-editor": [
       {
         "label": "Import font from WebFont",
-        "command": "font-storage:import"
+        "command": "webfont:import"
       },
       {
         "label": "Download font from WebFont",
-        "command": "font-storage:download"
+        "command": "webfont:download"
       }
     ]
   },
@@ -20,11 +20,11 @@
           "submenu": [
             {
               "label": "Import Font",
-              "command": "font-storage:import"
+              "command": "webfont:import"
             },
             {
               "label": "Download Font",
-              "command": "font-storage:download"
+              "command": "webfont:download"
             }
           ]
         }
