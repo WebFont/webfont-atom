@@ -2,7 +2,7 @@
   "name": "webfont",
   "main": "./lib/font-storage",
   "version": "1.0.0",
-  "description": "Use fonts from FontStorage website",
+  "description": "Search, embedding or download of free fonts from Fontstorage.com",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": ["webfont:import", "webfont:download"]
