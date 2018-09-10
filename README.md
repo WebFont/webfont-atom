@@ -1,3 +1,2 @@
 # Webfont package
-
-Plugin for importing fonts from [FontStorage.com](https://fontstorage.com/) or [Webfont.ru](https://webfont.ru).
+Plugin for search, embedding or download of free fonts from [Fontstorage.com](https://fontstorage.com).
