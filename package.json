@@ -1,13 +1,13 @@
 {
-  "name": "webfont",
+  "name": "Webfont",
   "main": "./lib/font-storage",
   "version": "1.0.0",
-  "description": "Search, embedding or download of free fonts from Fontstorage.com",
-  "keywords": [],
+  "description": "Search, embedding and download of free fonts from Fontstorage.com",
+  "keywords": ["web font", "free fonts", "import font"],
   "activationCommands": {
     "atom-workspace": ["webfont:import", "webfont:download"]
   },
-  "repository": "https://github.com/atom/font-storage",
+  "repository": "https://github.com/WebFont/webfont-atom",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
