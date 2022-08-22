@@ -1,7 +1,7 @@
 {
   "name": "Webfont",
   "main": "./lib/font-storage",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "Import and download fonts from Fontstorage.com collection.",
   "keywords": [
     "web font",
