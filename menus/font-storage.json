@@ -2,12 +2,8 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Import font from WebFont",
+        "label": "Webfont",
         "command": "webfont:import"
-      },
-      {
-        "label": "Download font from WebFont",
-        "command": "webfont:download"
       }
     ]
   },
@@ -19,12 +15,8 @@
           "label": "WebFont",
           "submenu": [
             {
-              "label": "Import Font",
+              "label": "Webfont",
               "command": "webfont:import"
-            },
-            {
-              "label": "Download Font",
-              "command": "webfont:download"
             }
           ]
         }
