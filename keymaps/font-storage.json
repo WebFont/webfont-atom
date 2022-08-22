@@ -1,6 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "webfont:import",
-    "ctrl-alt-d": "webfont:download"
+    "ctrl-alt-o": "webfont:import"
   }
 }
