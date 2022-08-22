@@ -13,10 +13,13 @@
       "webfont:import"
     ]
   },
-  "repository": "https://github.com/WebFont/webfont-atom",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WebFont/webfont-atom"
+  },
   "license": "MIT",
   "engines": {
-    "atom": ">=1.0.0 <2.0.0"
+    "atom": "*"
   },
   "dependencies": {
     "atom-select-list": "^0.7.0",
